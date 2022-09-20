@@ -1,0 +1,3457 @@
+<?xml version="1.0" standalone="yes"?>
+<DataSet1 xmlns="http://tempuri.org/DataSet1.xsd">
+  <Vokabeln>
+    <Chinesisch>老婆</Chinesisch>
+    <Pinyin>lǎopó</Pinyin>
+    <German>Ehefrau</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1000</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>老公</Chinesisch>
+    <Pinyin>lǎogōng</Pinyin>
+    <German>Ehemann</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1001</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>先生</Chinesisch>
+    <Pinyin>xiānsheng</Pinyin>
+    <German>Herr ... , Ehemann</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1002</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>太太</Chinesisch>
+    <Pinyin>tàitai</Pinyin>
+    <German>Ehefrau</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1003</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>爱人</Chinesisch>
+    <Pinyin>àirén</Pinyin>
+    <German>Ehepartner, Liebste</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1004</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>美女</Chinesisch>
+    <Pinyin>měinǚ</Pinyin>
+    <German>schöne Frau, Schönheit</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1005</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>帅哥</Chinesisch>
+    <Pinyin>shuàigē</Pinyin>
+    <German>hübscher Kerl</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1006</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>阿姨</Chinesisch>
+    <Pinyin>āyí</Pinyin>
+    <German>Tante, Kindemädchen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1007</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>叔叔</Chinesisch>
+    <Pinyin>shūshu</Pinyin>
+    <German>Onkel</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1008</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>女士</Chinesisch>
+    <Pinyin>nǚshì</Pinyin>
+    <German>Dame</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1009</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>小姐</Chinesisch>
+    <Pinyin>NN + xiǎojiě</Pinyin>
+    <German>Fräulein, jundge Dame</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1010</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>姑娘</Chinesisch>
+    <Pinyin>gūniang</Pinyin>
+    <German>Fräulein, Mädchen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1011</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>旅游</Chinesisch>
+    <Pinyin>lǚyóu</Pinyin>
+    <German>Reise (privat)</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1012</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>兄弟姐妹</Chinesisch>
+    <Pinyin>xiōngdìjiěmèi</Pinyin>
+    <German>Geschwister</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1013</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>住在</Chinesisch>
+    <Pinyin>zhùzài</Pinyin>
+    <German>leben in, wohnen in </German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1014</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>和</Chinesisch>
+    <Pinyin>hé</Pinyin>
+    <German>und</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1015</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>电脑</Chinesisch>
+    <Pinyin>diànnǎo</Pinyin>
+    <German>Computer</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1016</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>工程师</Chinesisch>
+    <Pinyin>gōngchéngshī</Pinyin>
+    <German>Ingenieur</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1017</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>多</Chinesisch>
+    <Pinyin>duō</Pinyin>
+    <German>viel</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1018</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>公司</Chinesisch>
+    <Pinyin>gōngsī</Pinyin>
+    <German>Firma, Betrieb</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1019</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>技术员</Chinesisch>
+    <Pinyin>jìshùyuán </Pinyin>
+    <German>Techniker</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1020</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>老师</Chinesisch>
+    <Pinyin>lǎoshī</Pinyin>
+    <German>Lehrer</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1021</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>医师</Chinesisch>
+    <Pinyin>yīshī</Pinyin>
+    <German>Arzt</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1022</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>医生</Chinesisch>
+    <Pinyin>yīshēng</Pinyin>
+    <German>Arzt</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1023</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>大夫</Chinesisch>
+    <Pinyin>dàifū</Pinyin>
+    <German>Arzt (alt)</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1024</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>建筑师</Chinesisch>
+    <Pinyin>jiànzhùshī</Pinyin>
+    <German>Architekt</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1025</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>专业</Chinesisch>
+    <Pinyin>zhuānyè</Pinyin>
+    <German>Branche, Fachrichtung, Spezailgebiet</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1026</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>结婚</Chinesisch>
+    <Pinyin>jiéhūn</Pinyin>
+    <German>Ehe, Heirat</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1027</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>打游戏</Chinesisch>
+    <Pinyin>dǎ yóuxì</Pinyin>
+    <German>Computer spielen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1028</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>办公室</Chinesisch>
+    <Pinyin>bàngōngshì</Pinyin>
+    <German>Büro</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1029</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>部门</Chinesisch>
+    <Pinyin>bùmén</Pinyin>
+    <German>Abteilung</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1030</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>同事</Chinesisch>
+    <Pinyin>tóngshì</Pinyin>
+    <German>Kollege</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1031</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>工作人员</Chinesisch>
+    <Pinyin>gōngzuò rényuán</Pinyin>
+    <German>Mitarbeiter</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1032</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>非常</Chinesisch>
+    <Pinyin>fēicháng</Pinyin>
+    <German>sehr</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1033</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>特别</Chinesisch>
+    <Pinyin>tèbié</Pinyin>
+    <German>besonders, ausgesprochen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1034</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>一百</Chinesisch>
+    <Pinyin>1 bǎi</Pinyin>
+    <German>hundert </German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1035</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>一千</Chinesisch>
+    <Pinyin>1 qiān</Pinyin>
+    <German>tausend</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1036</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>一万</Chinesisch>
+    <Pinyin>1 wàn</Pinyin>
+    <German>zehntausend</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1037</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>对吗</Chinesisch>
+    <Pinyin>duì ma</Pinyin>
+    <German>richtig?</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1038</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>对不对</Chinesisch>
+    <Pinyin>duì bú duì</Pinyin>
+    <German>richtig?</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1039</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>打电话</Chinesisch>
+    <Pinyin>dǎ diànhuà</Pinyin>
+    <German>anrufen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1040</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>多少</Chinesisch>
+    <Pinyin>duōshǎo</Pinyin>
+    <German>Anzahl, Menge</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1041</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>手机</Chinesisch>
+    <Pinyin>shǒujī</Pinyin>
+    <German>Handy</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1042</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>微信号</Chinesisch>
+    <Pinyin>wēixìn hào</Pinyin>
+    <German>Wechat Nummer</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1043</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>家</Chinesisch>
+    <Pinyin>jiā</Pinyin>
+    <German>Familie, zu Hause</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1044</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>给你发微信</Chinesisch>
+    <Pinyin>gěi nǐ fā wēixìn</Pinyin>
+    <German>schreibe dir in Wechat</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1045</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>邮件</Chinesisch>
+    <Pinyin>yóujiàn</Pinyin>
+    <German>Post</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1046</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>电子邮件；电邮</Chinesisch>
+    <Pinyin>diànzǐ yóujiàn; diàn yóu</Pinyin>
+    <German>E-Mail</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1047</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>地址</Chinesisch>
+    <Pinyin>dìzhǐ</Pinyin>
+    <German>Adresse</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1048</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>邮箱地址</Chinesisch>
+    <Pinyin>yóuxiāng dìzhǐ</Pinyin>
+    <German>E-Mail Adresse</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1049</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>密码</Chinesisch>
+    <Pinyin>mìmǎ</Pinyin>
+    <German>Passwort, Geheimzahl</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1050</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>条码</Chinesisch>
+    <Pinyin>tiáomǎ</Pinyin>
+    <German>Barcode</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1051</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>扫描</Chinesisch>
+    <Pinyin>sǎomiáo</Pinyin>
+    <German>scannen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1052</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>二维码</Chinesisch>
+    <Pinyin>èrwéimǎ</Pinyin>
+    <German>QR-Code</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1053</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>文件</Chinesisch>
+    <Pinyin>wénjiàn</Pinyin>
+    <German>Dokument, Datei</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1054</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>复印</Chinesisch>
+    <Pinyin>fùyìn</Pinyin>
+    <German>fotokopieren</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1055</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>帮</Chinesisch>
+    <Pinyin>bāng</Pinyin>
+    <German>helfen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1056</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>需要</Chinesisch>
+    <Pinyin>xūyào</Pinyin>
+    <German>benötigen, brauchen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1057</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>帮忙</Chinesisch>
+    <Pinyin>bāngmáng</Pinyin>
+    <German>Hilfe, behilflich sein</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1058</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>周末</Chinesisch>
+    <Pinyin>zhōumò</Pinyin>
+    <German>Wochenende</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1059</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>电影</Chinesisch>
+    <Pinyin>diànyǐng</Pinyin>
+    <German>Kinofilm, Film</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1060</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>还</Chinesisch>
+    <Pinyin>hái</Pinyin>
+    <German>noch, auch </German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1061</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>逛</Chinesisch>
+    <Pinyin>guàng</Pinyin>
+    <German>bummeln, schlendern</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1062</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>商场</Chinesisch>
+    <Pinyin>shāngchǎng</Pinyin>
+    <German>Kaufhaus, Markt</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1063</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>只</Chinesisch>
+    <Pinyin>zhǐ</Pinyin>
+    <German>nur</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1064</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>休息</Chinesisch>
+    <Pinyin>xiūxi</Pinyin>
+    <German>Pause, ausruhen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1065</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>晚饭</Chinesisch>
+    <Pinyin>wǎnfàn</Pinyin>
+    <German>Abendessen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1066</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>还是</Chinesisch>
+    <Pinyin>háishì</Pinyin>
+    <German>oder</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1067</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>出</Chinesisch>
+    <Pinyin>chū</Pinyin>
+    <German>raus</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1068</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>进</Chinesisch>
+    <Pinyin>jìn</Pinyin>
+    <German>rein</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1069</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>出去</Chinesisch>
+    <Pinyin>chūqù</Pinyin>
+    <German>rausgehen, hinausgehen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1070</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>进去</Chinesisch>
+    <Pinyin>jìnqù</Pinyin>
+    <German>reingehen, hineingehen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1071</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>出来</Chinesisch>
+    <Pinyin>chūlái</Pinyin>
+    <German>rauskommen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1072</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>进来</Chinesisch>
+    <Pinyin>jìnlái</Pinyin>
+    <German>reinkommen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1073</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>出口</Chinesisch>
+    <Pinyin>chūkǒu</Pinyin>
+    <German>Ausgang, Export</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1074</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>进口</Chinesisch>
+    <Pinyin>jìnkǒu</Pinyin>
+    <German>Eingang, Import</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1075</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>入口</Chinesisch>
+    <Pinyin>rùkǒu</Pinyin>
+    <German>Eingang</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1076</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>总部</Chinesisch>
+    <Pinyin>zǒngbù</Pinyin>
+    <German>Firmensitz, Zentrale</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1077</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>总公司</Chinesisch>
+    <Pinyin>zǒnggōngsī</Pinyin>
+    <German>Muttergesellschaft</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1078</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>总经理</Chinesisch>
+    <Pinyin>zǒngjīnglǐ</Pinyin>
+    <German>Geschäftsführer</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1079</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>经理</Chinesisch>
+    <Pinyin>jīnglǐ</Pinyin>
+    <German>Direktor</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1080</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>部门经理</Chinesisch>
+    <Pinyin>bùmén jīnglǐ</Pinyin>
+    <German>Abteilungsleiter</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1081</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>负责</Chinesisch>
+    <Pinyin>fùzé</Pinyin>
+    <German>Verantwortung</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1082</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>软件</Chinesisch>
+    <Pinyin>ruǎnjiàn</Pinyin>
+    <German>Software</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1083</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>研发</Chinesisch>
+    <Pinyin>yánfā</Pinyin>
+    <German>Forschung und Entwicklung</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1084</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>客户</Chinesisch>
+    <Pinyin>kèhù</Pinyin>
+    <German>Kunde</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1085</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>哪里 - 哪儿</Chinesisch>
+    <Pinyin>nǎlǐ - nǎr</Pinyin>
+    <German>woher</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1086</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>那里 - 那儿</Chinesisch>
+    <Pinyin>nàlǐ - nàr</Pinyin>
+    <German>da, dort</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1087</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>这里 - 这儿</Chinesisch>
+    <Pinyin>zhèlǐ - zhèr</Pinyin>
+    <German>hier</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1088</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>上个 。。。</Chinesisch>
+    <Pinyin>shàng ge ...</Pinyin>
+    <German>letzte(r/s)</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1089</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>下个 。。。</Chinesisch>
+    <Pinyin>xià ge ...</Pinyin>
+    <German>nächste(r/s)</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1090</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>飞机场</Chinesisch>
+    <Pinyin>fēijīchǎng</Pinyin>
+    <German>Flughafen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1091</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>市中心</Chinesisch>
+    <Pinyin>shìzhōngxīn</Pinyin>
+    <German>Stadtzentrum, CIty, Innenstadt</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1092</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>火车站</Chinesisch>
+    <Pinyin>huǒchēzhàn</Pinyin>
+    <German>Bahnhof</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1093</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>离</Chinesisch>
+    <Pinyin>lí</Pinyin>
+    <German>entfernt sein von</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1094</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>最近的</Chinesisch>
+    <Pinyin>zuìjìn de</Pinyin>
+    <German>nächster</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1095</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>离这里最近的</Chinesisch>
+    <Pinyin>lí zhèlǐ zuìjìn de</Pinyin>
+    <German>entfernung zum nächsten</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1096</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>医院</Chinesisch>
+    <Pinyin>yīyuàn</Pinyin>
+    <German>Krankenhaus</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1097</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>超市</Chinesisch>
+    <Pinyin>chāoshì</Pinyin>
+    <German>Supermarkt, Discounter</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1098</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>地铁站</Chinesisch>
+    <Pinyin>dìtiězhàn</Pinyin>
+    <German>U-Bahn Station</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1099</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>现在</Chinesisch>
+    <Pinyin>xiànzài</Pinyin>
+    <German>jetzt</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1100</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>几</Chinesisch>
+    <Pinyin>jǐ</Pinyin>
+    <German>wie viel?</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1101</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>几点</Chinesisch>
+    <Pinyin>jǐ diǎn</Pinyin>
+    <German>wie spät?</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1102</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>分</Chinesisch>
+    <Pinyin>fēn</Pinyin>
+    <German>Minute</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1103</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>刻</Chinesisch>
+    <Pinyin>kè</Pinyin>
+    <German>Viertelstunde</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1104</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>半</Chinesisch>
+    <Pinyin>bàn</Pinyin>
+    <German>halb</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1105</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>15 分 - 1 刻</Chinesisch>
+    <Pinyin>15 fēn  - 1 kè</Pinyin>
+    <German>15 Minuten - Viertelstunde</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1106</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>45分 - 3刻</Chinesisch>
+    <Pinyin>45 fēn - 3 kè</Pinyin>
+    <German>45 Minuten - dreiviertelstunden</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1107</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>半 - 30 分</Chinesisch>
+    <Pinyin>bàn - 30 fēn</Pinyin>
+    <German>halb - 30 Minuten</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1108</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>差 [a] 分 [b] 点</Chinesisch>
+    <Pinyin>chà [a] fēn [b] diǎn</Pinyin>
+    <German>noch [a] minuten [b] Uhr</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1109</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>档案</Chinesisch>
+    <Pinyin>dàng‘àn</Pinyin>
+    <German>Akte, Datei</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1110</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>拷贝</Chinesisch>
+    <Pinyin>kǎobèi</Pinyin>
+    <German>kopieren</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1111</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>优盘，U盘</Chinesisch>
+    <Pinyin>yōupán</Pinyin>
+    <German>USB-Stick</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1112</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>复印</Chinesisch>
+    <Pinyin>fùyìn</Pinyin>
+    <German>fotokopieren</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1113</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>[动词] + 一下</Chinesisch>
+    <Pinyin>[Verb] + yíxià</Pinyin>
+    <German>ein bisschen [Verb]</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1114</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>最近</Chinesisch>
+    <Pinyin>zuìjìn</Pinyin>
+    <German>in letzter Zeit, vor kurzem</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1115</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>现在</Chinesisch>
+    <Pinyin>xiànzài</Pinyin>
+    <German>jetzt</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1116</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>早上</Chinesisch>
+    <Pinyin>zǎoshàng</Pinyin>
+    <German>Morgen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1117</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>上午</Chinesisch>
+    <Pinyin>shàngwǔ</Pinyin>
+    <German>Vormittag</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1118</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>中午</Chinesisch>
+    <Pinyin>zhōngwǔ</Pinyin>
+    <German>Mittag</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1119</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>下午</Chinesisch>
+    <Pinyin>xiàwǔ</Pinyin>
+    <German>Nachmittag</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1120</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>晚上</Chinesisch>
+    <Pinyin>wǎnshàng</Pinyin>
+    <German>Abend</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1121</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>夜里</Chinesisch>
+    <Pinyin>yèlǐ</Pinyin>
+    <German>in der Nacht, nachts</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1122</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>早饭</Chinesisch>
+    <Pinyin>zǎofàn</Pinyin>
+    <German>Frühstück</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1123</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>早中饭</Chinesisch>
+    <Pinyin>zǎozhōngfàn</Pinyin>
+    <German>Brunch</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1124</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>中饭/午饭</Chinesisch>
+    <Pinyin>zhōngfàn/wǔfàn</Pinyin>
+    <German>Mittagessen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1125</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>夜宵</Chinesisch>
+    <Pinyin>yèxiāo</Pinyin>
+    <German>Nachtimbiss</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1126</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>哪里，哪里</Chinesisch>
+    <Pinyin>nǎlǐ, nǎlǐ</Pinyin>
+    <German>Aber nicht doch! , 
+e mich geschmeichelt</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1127</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>不敢当</Chinesisch>
+    <Pinyin>bù gǎn dāng</Pinyin>
+    <German>Ich fühle mich sehr geschmeichelt! ,
+der Ehre!</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1128</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>很棒</Chinesisch>
+    <Pinyin>hěn bàng!</Pinyin>
+    <German>sehr gut, spitze, super </German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1129</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>真棒</Chinesisch>
+    <Pinyin>zhēn bàng!</Pinyin>
+    <German>sehr gut, spitze, super </German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1130</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>很牛！</Chinesisch>
+    <Pinyin>hěn niú!</Pinyin>
+    <German>sehr gut, spitze, super </German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1131</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>真牛！</Chinesisch>
+    <Pinyin>zhēn niú!</Pinyin>
+    <German>sehr gut, spitze, super </German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1132</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>二百五</Chinesisch>
+    <Pinyin>èr bǎi wǔ</Pinyin>
+    <German>Dummkopf, Idiot</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1133</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>很二</Chinesisch>
+    <Pinyin>hěn èr</Pinyin>
+    <German>sehr dumm</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1134</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>真二</Chinesisch>
+    <Pinyin>zhēn èr</Pinyin>
+    <German>wirklich dumm</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1135</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>歌德学院</Chinesisch>
+    <Pinyin>gédé xuéyuàn</Pinyin>
+    <German>Göthe Institut</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1136</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>北部</Chinesisch>
+    <Pinyin>běibù</Pinyin>
+    <German>Norden, nördliche Region</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1137</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>东北部</Chinesisch>
+    <Pinyin>dōngběibù</Pinyin>
+    <German>Nordosten</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1138</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>南部</Chinesisch>
+    <Pinyin>nánbù</Pinyin>
+    <German>Süden</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1139</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>东南部</Chinesisch>
+    <Pinyin>dōngnánbù</Pinyin>
+    <German>Südosten</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1140</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>东部</Chinesisch>
+    <Pinyin>dōngbù</Pinyin>
+    <German>Osten</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1141</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>西北部</Chinesisch>
+    <Pinyin>xīběibù</Pinyin>
+    <German>Nordwesten</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1142</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>西部</Chinesisch>
+    <Pinyin>xībù</Pinyin>
+    <German>Westen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1143</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>西南部</Chinesisch>
+    <Pinyin>xīnánbù</Pinyin>
+    <German>Südwesten</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1144</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>学期</Chinesisch>
+    <Pinyin>xuéqī</Pinyin>
+    <German>Semester, Schulhalbjahr</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1145</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>自己</Chinesisch>
+    <Pinyin>zìjǐ</Pinyin>
+    <German>selbst, selber</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1146</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>项目</Chinesisch>
+    <Pinyin>xiàngmù</Pinyin>
+    <German>Projekt</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1147</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>负责人</Chinesisch>
+    <Pinyin>fùzérén</Pinyin>
+    <German>Verantwortlicher</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1148</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>项目 经理</Chinesisch>
+    <Pinyin>xiàngmù jīnglǐ</Pinyin>
+    <German>Projektleiter, -manager</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1149</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch />
+    <Pinyin>S + Zeit + Ort + V + Obj</Pinyin>
+    <German>S + Zeit + Ort + V + Obj</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1150</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch />
+    <Pinyin>Zeit + S + Ort + V + Obj</Pinyin>
+    <German>Zeit + S + Ort + V + Obj</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1151</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>每天/天天</Chinesisch>
+    <Pinyin>měitiān/tiāntian</Pinyin>
+    <German>jeden Tag</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1152</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>[数字] 天 (以) 前</Chinesisch>
+    <Pinyin>[anzahl] tiān (yǐ) qián</Pinyin>
+    <German>vor [anzahl] Tagen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1153</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>大前天</Chinesisch>
+    <Pinyin>dàqiántiān</Pinyin>
+    <German>vorvorgestern</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1154</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>前天</Chinesisch>
+    <Pinyin>qiántiān</Pinyin>
+    <German>vorgestern</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1155</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>昨天</Chinesisch>
+    <Pinyin>zuótiān</Pinyin>
+    <German>gestern</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1156</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>今天</Chinesisch>
+    <Pinyin>jīntiān</Pinyin>
+    <German>heute</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1157</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>明天</Chinesisch>
+    <Pinyin>míngtiān</Pinyin>
+    <German>morgen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1158</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>后天</Chinesisch>
+    <Pinyin>hòutiān</Pinyin>
+    <German>übermorgen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1159</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>大后天</Chinesisch>
+    <Pinyin>dàhòutiān</Pinyin>
+    <German>überübermorgen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1160</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>[数字] 天 (以) 后</Chinesisch>
+    <Pinyin>[anzahl] tiān (yǐ) hòu</Pinyin>
+    <German>in [anzahl] Tagen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1161</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>每年/年年</Chinesisch>
+    <Pinyin>měinián/niánnián</Pinyin>
+    <German>jedes Jahr</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1162</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>[数字] 年 (以) 前</Chinesisch>
+    <Pinyin>[anzahl] nián (yǐ) qián</Pinyin>
+    <German>vor [anzahl] Jahren</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1163</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>大前年</Chinesisch>
+    <Pinyin>dàqiánnián</Pinyin>
+    <German>vorvorletztes Jahr</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1164</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>前年</Chinesisch>
+    <Pinyin>qiánnián</Pinyin>
+    <German>vorletztes Jahr</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1165</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>去年</Chinesisch>
+    <Pinyin>qùnián</Pinyin>
+    <German>letztes Jahr</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1166</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>今年</Chinesisch>
+    <Pinyin>jīnnián</Pinyin>
+    <German>dieses Jahr</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1167</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>明年</Chinesisch>
+    <Pinyin>míngnián</Pinyin>
+    <German>nächstes Jahr</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1168</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>后年</Chinesisch>
+    <Pinyin>hòunián</Pinyin>
+    <German>übernächstes Jahr</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1169</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>大后年</Chinesisch>
+    <Pinyin>dàhòunián</Pinyin>
+    <German>überübernächstes Jahr</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1170</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>[数字] 年 (以) 后</Chinesisch>
+    <Pinyin>[anzahl] nián (yǐ) hòu</Pinyin>
+    <German>in [anzahl] Jahren</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1171</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>常常</Chinesisch>
+    <Pinyin>chángcháng</Pinyin>
+    <German>oft, normalerweise</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1172</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>不常</Chinesisch>
+    <Pinyin>bú cháng</Pinyin>
+    <German>nicht oft, normalerweise nicht</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1173</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>有时候</Chinesisch>
+    <Pinyin>yǒu shíhòu</Pinyin>
+    <German>manchmal, hin und wieder</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1174</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>有人</Chinesisch>
+    <Pinyin>yǒurén</Pinyin>
+    <German>jemand</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1175</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>没（有）人</Chinesisch>
+    <Pinyin>méi(yǒu)rén</Pinyin>
+    <German>niemand</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1176</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>找</Chinesisch>
+    <Pinyin>zhǎo</Pinyin>
+    <German>suchen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1177</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>星期一，二，三，四，五，六</Chinesisch>
+    <Pinyin>xīngqī 1 ... 6</Pinyin>
+    <German>Montag - Samstag</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1178</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>周一，二，三，四，五，六</Chinesisch>
+    <Pinyin>zhōu 1 ... 6</Pinyin>
+    <German>Montag - Samstag</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1179</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>星期天</Chinesisch>
+    <Pinyin>xīngqītiān</Pinyin>
+    <German>Sonntag</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1180</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>星期日</Chinesisch>
+    <Pinyin>xīngqīrì</Pinyin>
+    <German>Sonntag</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1181</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>周日</Chinesisch>
+    <Pinyin>zhōurì</Pinyin>
+    <German>Sonntag</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1182</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>周末</Chinesisch>
+    <Pinyin>zhōumò</Pinyin>
+    <German>Wochenende</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1183</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>三个星期</Chinesisch>
+    <Pinyin>3 ge xīngqī</Pinyin>
+    <German>drei Tage</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1184</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>1 ... 12 月</Chinesisch>
+    <Pinyin>1 ... 12 yuè</Pinyin>
+    <German>Januar - Dezember</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1185</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>每个星期</Chinesisch>
+    <Pinyin>měi ge xīngqī</Pinyin>
+    <German>wöchentlich. jede Woche</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1186</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>[数字] 个 星期 (以) 前</Chinesisch>
+    <Pinyin>[anzahl] ge xīngqī (yǐ) qián</Pinyin>
+    <German>vor [anzahl] Wochen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1187</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>上上个星期</Chinesisch>
+    <Pinyin>shàngshàng ge xīngqī</Pinyin>
+    <German>vorletzte Woche</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1188</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>上个星期</Chinesisch>
+    <Pinyin>shàng ge xīngqī</Pinyin>
+    <German>letzte Woche</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1189</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>这（个）星期</Chinesisch>
+    <Pinyin>zhè (ge) xīngqī</Pinyin>
+    <German>diese Woche </German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1190</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>下个星期</Chinesisch>
+    <Pinyin>xià ge xīngqī</Pinyin>
+    <German>nächste Woche</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1191</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>下下个星期</Chinesisch>
+    <Pinyin>xià xià ge xīngqī</Pinyin>
+    <German>übernächste Woche</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1192</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>[数字] 个 星期 (以) 后</Chinesisch>
+    <Pinyin>[anzahl] ge xīngqī (yǐ) hòu</Pinyin>
+    <German>in {anzahl] Wochen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1193</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>每个月</Chinesisch>
+    <Pinyin>mēi ge yuè</Pinyin>
+    <German>jeden Monat, monatlich </German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1194</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>[数字] 个 月 (以) 前</Chinesisch>
+    <Pinyin>[anzahl] ge yuè (yǐ) qián</Pinyin>
+    <German>vor [anzahl] Monaten</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1195</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>上上个月</Chinesisch>
+    <Pinyin>shàng shàng ge yuè</Pinyin>
+    <German>vorletzten Monat</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1196</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>上个月</Chinesisch>
+    <Pinyin>shàng ge yuè</Pinyin>
+    <German>letzten Monat </German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1197</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>这个月</Chinesisch>
+    <Pinyin>zhè ge yuè</Pinyin>
+    <German>diesen Monat</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1198</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>下个月</Chinesisch>
+    <Pinyin>xià ge yuè</Pinyin>
+    <German>nächsten Monat</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1199</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>下下个月</Chinesisch>
+    <Pinyin>xià xià ge yuè</Pinyin>
+    <German>übernächsten Monat</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1200</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>[数字] 个 月 (以) 后</Chinesisch>
+    <Pinyin>[anzahl] ge yuè (yǐ) hòu</Pinyin>
+    <German>in [anzahl] Monaten</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1201</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>明天见！</Chinesisch>
+    <Pinyin>míngtiān jiàn !</Pinyin>
+    <German>wir sehen uns morgen!</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1202</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>下个 星期5 见！</Chinesisch>
+    <Pinyin>xiàge xīngqī 5 jiàn !</Pinyin>
+    <German>wir sehen uns Freitag!</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1204</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>一会（儿）见！</Chinesisch>
+    <Pinyin>yí huǐ(r) jiàn !</Pinyin>
+    <German>sehen uns gleich/später!</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1205</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>回头见！</Chinesisch>
+    <Pinyin>huí tóu jiàn !</Pinyin>
+    <German>sehen uns bald</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1206</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>好久不见（了）！</Chinesisch>
+    <Pinyin>hǎo jiǔ bú jiàn (le) !</Pinyin>
+    <German>lange nicht gesehen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1207</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>我 马上 来！</Chinesisch>
+    <Pinyin>wǒ mǎshàng lái !</Pinyin>
+    <German>ich komme sofort</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1208</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>我 立马 来！</Chinesisch>
+    <Pinyin>wǒ lìmǎ lái !</Pinyin>
+    <German>ich komme sofort</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1209</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>日期</Chinesisch>
+    <Pinyin>rìqī</Pinyin>
+    <German>Datum</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1210</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>阳历</Chinesisch>
+    <Pinyin>yánglì</Pinyin>
+    <German>Sonnenkalender</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1211</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>阴历</Chinesisch>
+    <Pinyin>yīnlì</Pinyin>
+    <German>Mondkalender</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1212</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>2020年2月11号（星期2）</Chinesisch>
+    <Pinyin>2020 nián 2 yuè 11 hào (xīngqī 2)</Pinyin>
+    <German>Dienstag, 11. Februar 2020</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1213</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>生日</Chinesisch>
+    <Pinyin>shēngrì</Pinyin>
+    <German>Geburtstag</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1214</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>祝</Chinesisch>
+    <Pinyin>zhù</Pinyin>
+    <German>wünschen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1215</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>快乐</Chinesisch>
+    <Pinyin>kuàilè</Pinyin>
+    <German>fröhlich, glücklich</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1216</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>祝 你 生日 快乐 ！</Chinesisch>
+    <Pinyin>zhù nǐ shēngrì kuàilè !</Pinyin>
+    <German>alle gute zum Geburtstag!</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1217</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>祝 你 好 胃口</Chinesisch>
+    <Pinyin>zhù nǐ hǎo wèikǒu !</Pinyin>
+    <German>guten Appetit!</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1218</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>祝 你 新年 快乐 ！</Chinesisch>
+    <Pinyin>zhù nǐ xīnnián kuàilè !</Pinyin>
+    <German>forhes neues Jahr!</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1219</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>祝 你 新婚 快乐！</Chinesisch>
+    <Pinyin>zhù nǐ xīnhūn kuàilè !</Pinyin>
+    <German>alle gute zur Hochzeit!</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1220</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>祝 你们 共浴爱河！</Chinesisch>
+    <Pinyin>zhù nǐmen yòng yù ài hé !</Pinyin>
+    <German>alle gute zur Hochzeit!</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1221</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>周末 快乐！</Chinesisch>
+    <Pinyin>zhōumò kuàilè !</Pinyin>
+    <German>schönes Wochenende!</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1222</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>祝 你 早日 康复！</Chinesisch>
+    <Pinyin>zhù nǐ zǎorǐ kāngfù !</Pinyin>
+    <German>gute Besserung!</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1223</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>跟</Chinesisch>
+    <Pinyin>gēn</Pinyin>
+    <German>mit</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1224</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>开会</Chinesisch>
+    <Pinyin>kāihuì</Pinyin>
+    <German>Meeting</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1225</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>出差</Chinesisch>
+    <Pinyin>chūchāi</Pinyin>
+    <German>Dienstreise</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1226</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>旅游</Chinesisch>
+    <Pinyin>lǚyóu</Pinyin>
+    <German>Reise (Privat)</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1227</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>什么 时候？</Chinesisch>
+    <Pinyin>shénme shíhòu ?</Pinyin>
+    <German>wann?</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1228</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>几点？</Chinesisch>
+    <Pinyin>jǐ diǎn ?</Pinyin>
+    <German>welche Uhrzeit</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1229</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>几分？</Chinesisch>
+    <Pinyin>jǐ fēn ?</Pinyin>
+    <German>welche Minute</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1230</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>几天 / 几号 / 几日 ？</Chinesisch>
+    <Pinyin>jǐ tiān / jǐ hào / jǐ rì ?</Pinyin>
+    <German>welcher Tag?</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1231</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>星期几？</Chinesisch>
+    <Pinyin>xīngqī jǐ ?</Pinyin>
+    <German>welcher Wochentag?</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1232</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>周几？</Chinesisch>
+    <Pinyin>zhōu jǐ ？</Pinyin>
+    <German>welche Woche?</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1233</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>几月？</Chinesisch>
+    <Pinyin>jǐ yuè ?</Pinyin>
+    <German>welcher Monat?</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1234</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>哪年？</Chinesisch>
+    <Pinyin>nǎ nián ?</Pinyin>
+    <German>welches Jahr?</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1235</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>什么 年？</Chinesisch>
+    <Pinyin>shénme nián ?</Pinyin>
+    <German>welches Tierkreiszeichen?</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1236</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>多长 时间？</Chinesisch>
+    <Pinyin>duō cháng shí jiān ?</Pinyin>
+    <German>wie lange?</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1237</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>多久？</Chinesisch>
+    <Pinyin>duō jiǔ ?</Pinyin>
+    <German>wie lange?</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1238</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>几小时</Chinesisch>
+    <Pinyin>jǐ xiǎoshí ?</Pinyin>
+    <German>wie viele Stunden?</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1239</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>几分钟？</Chinesisch>
+    <Pinyin>jǐ fēnzhōng ?</Pinyin>
+    <German>wie viele Minuten?</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1240</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>几天？</Chinesisch>
+    <Pinyin>jǐ tiān ?</Pinyin>
+    <German>wie viele Tage?</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1241</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>几 （个） 星期？</Chinesisch>
+    <Pinyin>jǐ (ge) xīngqī ?</Pinyin>
+    <German>wie viele Wochen?</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1242</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>几周？</Chinesisch>
+    <Pinyin>jǐ zhōu ?</Pinyin>
+    <German>wie viele Wochen?</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1243</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>几个月？</Chinesisch>
+    <Pinyin>jǐ ge yuè ?</Pinyin>
+    <German>wie viele Monate?</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1244</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>几年？</Chinesisch>
+    <Pinyin>jǐ nián ?</Pinyin>
+    <German>wie viele Jahre?</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1245</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>多少年</Chinesisch>
+    <Pinyin>duōshǎo nián ?</Pinyin>
+    <German>wie viele Jahre?</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1246</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>以前 。。。</Chinesisch>
+    <Pinyin>yǐ qián ...</Pinyin>
+    <German>früher</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1247</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>以后 。。。</Chinesisch>
+    <Pinyin>yǐ hòu ...</Pinyin>
+    <German>später</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1248</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>。。。以前，。。。</Chinesisch>
+    <Pinyin>... yǐ qián, ...</Pinyin>
+    <German>bevor</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1249</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>。。。以后，。。。</Chinesisch>
+    <Pinyin>... yǐ hòu, ...</Pinyin>
+    <German>danach</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1250</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>。。。的时候，。。。</Chinesisch>
+    <Pinyin>... de shíhòu, ...</Pinyin>
+    <German>während, zur Zeit als ...</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1251</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>聊天</Chinesisch>
+    <Pinyin>liáotiān</Pinyin>
+    <German>unterhalten, quatschen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1252</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>口罩</Chinesisch>
+    <Pinyin>kǒuzhào</Pinyin>
+    <German>Mundschutz</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1253</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>得</Chinesisch>
+    <Pinyin>děi</Pinyin>
+    <German>müssen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1254</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>戴</Chinesisch>
+    <Pinyin>dài</Pinyin>
+    <German>anziehen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1255</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>别</Chinesisch>
+    <Pinyin>bié [kurz f. bù yào]</Pinyin>
+    <German>nicht wollen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1256</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>早</Chinesisch>
+    <Pinyin>zǎo</Pinyin>
+    <German>früh</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1257</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>很早</Chinesisch>
+    <Pinyin>hěn zǎo</Pinyin>
+    <German>sehr früh</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1258</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>不早</Chinesisch>
+    <Pinyin>bù zǎo</Pinyin>
+    <German>nicht früh</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1259</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>早一点</Chinesisch>
+    <Pinyin>zǎo yìdiǎn</Pinyin>
+    <German>ein bisschen früh</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1260</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>太早了</Chinesisch>
+    <Pinyin>tài zǎo le</Pinyin>
+    <German>zu früh</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1261</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>晚</Chinesisch>
+    <Pinyin>wǎn</Pinyin>
+    <German>spät</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1262</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>很晚</Chinesisch>
+    <Pinyin>hěn wǎn</Pinyin>
+    <German>sehr spät</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1263</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>不晚</Chinesisch>
+    <Pinyin>bù wǎn</Pinyin>
+    <German>nicht spät</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1264</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>晚一点</Chinesisch>
+    <Pinyin>wǎn yìdiǎn</Pinyin>
+    <German>ein bisschen spät</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1265</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>太晚了</Chinesisch>
+    <Pinyin>tài wǎn le</Pinyin>
+    <German>zu spät</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1266</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>[Verb] + 不了</Chinesisch>
+    <Pinyin>[Verb] + bùliǎo</Pinyin>
+    <German>[Verb] nicht möglich</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1267</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>但是</Chinesisch>
+    <Pinyin>dànshì</Pinyin>
+    <German>aber</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1268</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>可是</Chinesisch>
+    <Pinyin>kěshì</Pinyin>
+    <German>aber</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1269</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>真</Chinesisch>
+    <Pinyin>zhēn</Pinyin>
+    <German>echt, false, wirklich</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1270</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>接受</Chinesisch>
+    <Pinyin>jiēshòu</Pinyin>
+    <German>akzeptieren</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1271</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>太</Chinesisch>
+    <Pinyin>tài</Pinyin>
+    <German>sehr</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1272</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>凶</Chinesisch>
+    <Pinyin>xiōng</Pinyin>
+    <German>böse</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1273</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>起床</Chinesisch>
+    <Pinyin>qǐchuáng</Pinyin>
+    <German>aufstehen (Bett)</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1274</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>上</Chinesisch>
+    <Pinyin>shàng</Pinyin>
+    <German>drauf, drüber, oben</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1275</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>上课</Chinesisch>
+    <Pinyin>shàng kè</Pinyin>
+    <German>am Unterricht teilnehmen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1276</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>上班</Chinesisch>
+    <Pinyin>shàng bān</Pinyin>
+    <German>zur Arbeit gehen, in der Arbeit sein</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1277</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>上学</Chinesisch>
+    <Pinyin>shàng xué</Pinyin>
+    <German>zur Schule gehen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1278</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>上车</Chinesisch>
+    <Pinyin>shàng chē</Pinyin>
+    <German>einsteigen (meist Auto)</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1279</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>上地铁</Chinesisch>
+    <Pinyin>shàng dìtiě</Pinyin>
+    <German>einsteigen U-Bahn</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1280</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>上飞机</Chinesisch>
+    <Pinyin>shàng fēijī</Pinyin>
+    <German>einsteigen Flugzeug</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1281</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>上来</Chinesisch>
+    <Pinyin>shàng lái</Pinyin>
+    <German>hoch kommen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1282</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>上去</Chinesisch>
+    <Pinyin>shàng qù</Pinyin>
+    <German>hoch gehen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1283</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>上楼</Chinesisch>
+    <Pinyin>shàng lóu</Pinyin>
+    <German>Etage hoch gehen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1284</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>下</Chinesisch>
+    <Pinyin>xià</Pinyin>
+    <German>drunter, unten, unter</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1285</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>下课</Chinesisch>
+    <Pinyin>xià kè</Pinyin>
+    <German>Unterricht beenden</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1286</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>下班</Chinesisch>
+    <Pinyin>xià bān</Pinyin>
+    <German>Arbeit beenden</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1287</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>下车</Chinesisch>
+    <Pinyin>xià chē</Pinyin>
+    <German>aussteigen (meist Auto)</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1289</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>下地铁</Chinesisch>
+    <Pinyin>xià dìtiě</Pinyin>
+    <German>aussteigen U-Bahn</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1290</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>下飞机</Chinesisch>
+    <Pinyin>xià fēijī</Pinyin>
+    <German>aussteigen Flugzeug</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1291</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>下来</Chinesisch>
+    <Pinyin>xià lái</Pinyin>
+    <German>runter kommen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1292</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>下去</Chinesisch>
+    <Pinyin>xià qù</Pinyin>
+    <German>runter gehen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1293</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>下楼</Chinesisch>
+    <Pinyin>xià lóu</Pinyin>
+    <German>Etage runter gehen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1294</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>开始</Chinesisch>
+    <Pinyin>kāishǐ</Pinyin>
+    <German>beginnen, der Anfang</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1295</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>迟到</Chinesisch>
+    <Pinyin>chí dào</Pinyin>
+    <German>verspäten</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1296</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>在家 上 班</Chinesisch>
+    <Pinyin>zàijiā shàng bān</Pinyin>
+    <German>Homeoffice</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1297</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>碰到</Chinesisch>
+    <Pinyin>pèngdào</Pinyin>
+    <German>treffen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1298</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>再来</Chinesisch>
+    <Pinyin>zàilái</Pinyin>
+    <German>wiederkommen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1299</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>（你）又来了！</Chinesisch>
+    <Pinyin>(nǐ) yòu lái le!</Pinyin>
+    <German>Du wiederholst Dich!</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1300</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>怎么</Chinesisch>
+    <Pinyin>zěnme</Pinyin>
+    <German>wie? wieso?</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1301</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>空</Chinesisch>
+    <Pinyin>kòng</Pinyin>
+    <German>Freizeit, ungenutzte Zeit</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1302</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>你有空吗</Chinesisch>
+    <Pinyin>nǐ yǒu kòng ma ?</Pinyin>
+    <German>Hast du Zeit?</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1303</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>（我）没办法</Chinesisch>
+    <Pinyin>(wǒ) méi bànfǎ</Pinyin>
+    <German>keine Lösung, es lässt sich nicht ändern, kann man nichts machen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1304</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>（我）真抱歉！</Chinesisch>
+    <Pinyin>(wǒ) zhēn bàoqiàn !</Pinyin>
+    <German>es tut mir sehr leid!</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1305</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>[动词] + 过 。。。</Chinesisch>
+    <Pinyin>[Verb] + guò ...</Pinyin>
+    <German>etwas getan haben in der Vergangenheit</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1306</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>如果 。。。， 就 。。。</Chinesisch>
+    <Pinyin>rúguǒ ... , S + jiù ...</Pinyin>
+    <German>wenn, dann </German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1307</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>生气</Chinesisch>
+    <Pinyin>shēngqì</Pinyin>
+    <German>sauer sein; sich aufregen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1308</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>生Jörn的气</Chinesisch>
+    <Pinyin>shēng Jörn de qì</Pinyin>
+    <German>auf Jörn sauer sein</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1309</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>从。。。到。。。</Chinesisch>
+    <Pinyin>cóng ... dào ...</Pinyin>
+    <German>von/aus ... bis/nach </German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1310</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>视频会议</Chinesisch>
+    <Pinyin>shìpín huìyì</Pinyin>
+    <German>Videokonferenz</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1311</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>会议室</Chinesisch>
+    <Pinyin>huìyìshì</Pinyin>
+    <German>Besprechungszimmer; Konferenzzimmer</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1313</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>从早到晚</Chinesisch>
+    <Pinyin>cóng zǎo dào wǎn</Pinyin>
+    <German>von morgens bis abends</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1314</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>都</Chinesisch>
+    <Pinyin>dōu</Pinyin>
+    <German>immer</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1315</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>每个人</Chinesisch>
+    <Pinyin>měi ge rén</Pinyin>
+    <German>jeder</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1316</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>平等</Chinesisch>
+    <Pinyin>píngděng</Pinyin>
+    <German>gleich, gleichberechtigt</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1317</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>房子</Chinesisch>
+    <Pinyin>fángzi</Pinyin>
+    <German>Gebäude, Haus, Wohnung</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1318</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>租房子</Chinesisch>
+    <Pinyin>zū fāngzi</Pinyin>
+    <German>Haus, Wohnung mieten</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1319</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>出租房子</Chinesisch>
+    <Pinyin>chūzū fāngzi</Pinyin>
+    <German>Haus, Wohnung vermieten</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1320</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>虽然。。。，但是。。。</Chinesisch>
+    <Pinyin>suīrán ... , dànshì ...</Pinyin>
+    <German>zwar ... , aber ...</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1321</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>还是</Chinesisch>
+    <Pinyin>hái shì</Pinyin>
+    <German>oder, trotzdem</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1322</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>前天</Chinesisch>
+    <Pinyin>qiántiān</Pinyin>
+    <German>vorgestern</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1323</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>后天</Chinesisch>
+    <Pinyin>hòutiān</Pinyin>
+    <German>übermorgen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1324</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>前1天</Chinesisch>
+    <Pinyin>qián 1 tiān</Pinyin>
+    <German>vor einem Tag </German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1325</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>后1天</Chinesisch>
+    <Pinyin>hòu 1 tiān</Pinyin>
+    <German>in einem Tag</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1326</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>白天</Chinesisch>
+    <Pinyin>báitiān</Pinyin>
+    <German>tagsüber</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1327</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>附近</Chinesisch>
+    <Pinyin>fùjìn</Pinyin>
+    <German>in der Nähe</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1328</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>上 面/边</Chinesisch>
+    <Pinyin>shàng miàn/biān</Pinyin>
+    <German>oben, drüber, drauf</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1329</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>前面</Chinesisch>
+    <Pinyin>qián miàn</Pinyin>
+    <German>Vorderseite, vorn</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1330</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>后面</Chinesisch>
+    <Pinyin>hòu miàn</Pinyin>
+    <German>Rückseite, hinten</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1331</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>左边</Chinesisch>
+    <Pinyin>zuǒ biān</Pinyin>
+    <German>linke Seite, links</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1332</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>中间</Chinesisch>
+    <Pinyin>zhōng jiān</Pinyin>
+    <German>in der Mitte, dazwischen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1333</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>右边</Chinesisch>
+    <Pinyin>yòu biān</Pinyin>
+    <German>rechte Seite, rechts</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1334</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>下 面/边</Chinesisch>
+    <Pinyin>xià miàn/biān</Pinyin>
+    <German>unten, drunter </German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1335</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>对面</Chinesisch>
+    <Pinyin>duì miàn</Pinyin>
+    <German>gegenüber</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1336</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>旁边</Chinesisch>
+    <Pinyin>páng biān</Pinyin>
+    <German>daneben</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1337</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>里 边/面</Chinesisch>
+    <Pinyin>lǐ biān/miàn</Pinyin>
+    <German>drinnen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1338</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>外 边/面</Chinesisch>
+    <Pinyin>wài biān/miàn</Pinyin>
+    <German>draußen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1339</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>第 [1....n] 点</Chinesisch>
+    <Pinyin>dì [1....n] diǎn ...</Pinyin>
+    <German>Punkt [1 ... n] ... </German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1340</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>过</Chinesisch>
+    <Pinyin>guò</Pinyin>
+    <German>überqueren</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1341</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>马路</Chinesisch>
+    <Pinyin>mǎlù</Pinyin>
+    <German>Autostraße </German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1342</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>就到了</Chinesisch>
+    <Pinyin>jiù dào le</Pinyin>
+    <German>dann ist das Ziel erreicht/ gleich da</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1343</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>。。。 然后</Chinesisch>
+    <Pinyin>xiān ... ránhòu</Pinyin>
+    <German>erst ... danach </German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1344</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>就</Chinesisch>
+    <Pinyin>jiù</Pinyin>
+    <German>dann</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1345</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>坐地铁 / 搭地跌</Chinesisch>
+    <Pinyin>zuò dìtiě / dā dìtiě</Pinyin>
+    <German>U-Bahn nehmen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1346</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>坐电梯 / 搭电梯</Chinesisch>
+    <Pinyin>zuò diàntī / dā diàntī</Pinyin>
+    <German>Rolltreppe nehmen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1347</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>组长</Chinesisch>
+    <Pinyin>zǔzhǎng</Pinyin>
+    <German>Gruppenleiter</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1348</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>讨论</Chinesisch>
+    <Pinyin>tǎolùn</Pinyin>
+    <German>diskutieren/besprechen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1349</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>一次</Chinesisch>
+    <Pinyin>1 cì</Pinyin>
+    <German>1 mal </German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1350</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>应该</Chinesisch>
+    <Pinyin>yīnggāi</Pinyin>
+    <German>müssen, sollen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1351</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>工作 人员</Chinesisch>
+    <Pinyin>gōngzuò rényuán</Pinyin>
+    <German>Mitarbeiter</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1352</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>一定</Chinesisch>
+    <Pinyin>yídìng</Pinyin>
+    <German>unbedingt</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1353</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>不一定</Chinesisch>
+    <Pinyin>bú yídìng</Pinyin>
+    <German>nicht unbedingt</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1354</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>因为。。。，所以。。。</Chinesisch>
+    <Pinyin>yīnwéi ... , suǒyǐ</Pinyin>
+    <German>weil ... , deshalb ...</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1355</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>晚一点</Chinesisch>
+    <Pinyin>wǎn yì diǎn</Pinyin>
+    <German>bisschen später</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1356</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>近</Chinesisch>
+    <Pinyin>jìn</Pinyin>
+    <German>nah</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1357</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>远</Chinesisch>
+    <Pinyin>yuǎn</Pinyin>
+    <German>weit</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1358</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>去看</Chinesisch>
+    <Pinyin>qùkàn</Pinyin>
+    <German>besuchen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1359</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>见面</Chinesisch>
+    <Pinyin>jiànmiàn</Pinyin>
+    <German>treffen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1360</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>接[某人]</Chinesisch>
+    <Pinyin>jiē [jemand]</Pinyin>
+    <German>abholen [jemand]</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1361</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>送 [某人] 去 [某处]</Chinesisch>
+    <Pinyin>sòng [jemand] qù [ort]</Pinyin>
+    <German>bring [jemand] zum [ort]</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1362</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>停车场</Chinesisch>
+    <Pinyin>tíngchēchǎng</Pinyin>
+    <German>Parkplatz</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1363</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>除了。。。以外</Chinesisch>
+    <Pinyin>chúle ... yǐwài</Pinyin>
+    <German>abgesehen von, außer ...</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1364</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>昆虫</Chinesisch>
+    <Pinyin>kūnchóng</Pinyin>
+    <German>Insekten</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1365</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>什么都</Chinesisch>
+    <Pinyin>shénme dōu</Pinyin>
+    <German>alles, egal was</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1366</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>烤箱</Chinesisch>
+    <Pinyin>kǎoxiāng</Pinyin>
+    <German>Backofen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1367</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>微波炉</Chinesisch>
+    <Pinyin>wēibōlú</Pinyin>
+    <German>Mikrowelle</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1368</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>炉子</Chinesisch>
+    <Pinyin>lúzi</Pinyin>
+    <German>Herd</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1369</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>食堂</Chinesisch>
+    <Pinyin>shítáng</Pinyin>
+    <German>Kantine</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1370</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>餐厅</Chinesisch>
+    <Pinyin>cāntīng</Pinyin>
+    <German>Restaurant</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1371</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>公共</Chinesisch>
+    <Pinyin>gōnggòng</Pinyin>
+    <German>öffentlich, gemeinschaftlich</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1372</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>公用</Chinesisch>
+    <Pinyin>gōngyòng</Pinyin>
+    <German>zur allgem. Verwendung</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1373</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>带</Chinesisch>
+    <Pinyin>dài</Pinyin>
+    <German>bringen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1374</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>便宜</Chinesisch>
+    <Pinyin>piányì</Pinyin>
+    <German>billig, günstig</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1375</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>贵</Chinesisch>
+    <Pinyin>guì</Pinyin>
+    <German>teuer</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1376</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>估价</Chinesisch>
+    <Pinyin>gūjià</Pinyin>
+    <German>Preisschätzung, Bewertung</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1377</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>新冠病毒</Chinesisch>
+    <Pinyin>xīnguàn bìndú</Pinyin>
+    <German>Corona Virus</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1378</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>关门</Chinesisch>
+    <Pinyin>guānmén</Pinyin>
+    <German>schließen, Tür schließen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1379</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>运气</Chinesisch>
+    <Pinyin>yùnqì</Pinyin>
+    <German>Glück</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1380</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>估一个价</Chinesisch>
+    <Pinyin>gū 1 ge jià</Pinyin>
+    <German>Angebot erstellen/abschätzen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1381</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>价钱</Chinesisch>
+    <Pinyin>jiàqián</Pinyin>
+    <German>Preis</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1382</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>供应商</Chinesisch>
+    <Pinyin>gōngyìngshāng</Pinyin>
+    <German>Lieferant</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1383</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>打开</Chinesisch>
+    <Pinyin>dǎ kāi</Pinyin>
+    <German>öffnen, anstellen, anschalten</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1384</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>开关</Chinesisch>
+    <Pinyin>kāiguān</Pinyin>
+    <German>Schalter </German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1385</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>时间</Chinesisch>
+    <Pinyin>shíjiān</Pinyin>
+    <German>Zeitdauer, Zeitraum</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1387</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>签证</Chinesisch>
+    <Pinyin>qiānzhèng</Pinyin>
+    <German>Visum</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1388</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>办</Chinesisch>
+    <Pinyin>bàn</Pinyin>
+    <German>erledigen, bearbeiten</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1389</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>拿</Chinesisch>
+    <Pinyin>ná</Pinyin>
+    <German>holen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1390</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>送</Chinesisch>
+    <Pinyin>sòng</Pinyin>
+    <German>bringen, schenken</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1391</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>接</Chinesisch>
+    <Pinyin>jiē</Pinyin>
+    <German>abholen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1392</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>送</Chinesisch>
+    <Pinyin>sòng + I.O + D.O.</Pinyin>
+    <German>schenken</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1393</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>送</Chinesisch>
+    <Pinyin>sòng + Personen qù + Ort.</Pinyin>
+    <German>bringen, schenken</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1394</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>年轻人</Chinesisch>
+    <Pinyin>niánqīngrén</Pinyin>
+    <German>Jugendlicher, junger Mann</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1395</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>地址</Chinesisch>
+    <Pinyin>dìzhǐ</Pinyin>
+    <German>Adresse</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1396</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>从 + 时间 + 开始</Chinesisch>
+    <Pinyin>cóng + Zeit + kāishǐ</Pinyin>
+    <German>seit ... , ab .... </German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1397</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>从 + 时间 + 起</Chinesisch>
+    <Pinyin>cóng + Zeit + qǐ  ab Zeit </Pinyin>
+    <German>seit ... , ab .... </German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1398</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>关照</Chinesisch>
+    <Pinyin>guānzhào</Pinyin>
+    <German>bescheid sagen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1399</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>接</Chinesisch>
+    <Pinyin>S + Ort + jiē + Personen</Pinyin>
+    <German>abholen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1400</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>提款机</Chinesisch>
+    <Pinyin>tíkuǎnjī</Pinyin>
+    <German>Geldautomat</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1401</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>味道</Chinesisch>
+    <Pinyin>wèidào</Pinyin>
+    <German>Geschmack</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1402</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>一样</Chinesisch>
+    <Pinyin>yíyàng</Pinyin>
+    <German>gleich sein</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1403</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>毕业</Chinesisch>
+    <Pinyin>bìyè</Pinyin>
+    <German>Abschluß machen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1404</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>是否</Chinesisch>
+    <Pinyin>shìfǒu</Pinyin>
+    <German>ob</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1405</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>兴趣</Chinesisch>
+    <Pinyin>xìngqù</Pinyin>
+    <German>Interesse, Begeisterung, Bock</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1406</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>感兴趣</Chinesisch>
+    <Pinyin>gǎn xìngqù</Pinyin>
+    <German>an (oder: für) etw. Interesse haben</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1407</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>足球</Chinesisch>
+    <Pinyin>zúqiú</Pinyin>
+    <German>Fußball</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1408</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>意思</Chinesisch>
+    <Pinyin>yìsi</Pinyin>
+    <German>Bedeutung, Sinn</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1409</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>有意思</Chinesisch>
+    <Pinyin>yǒu yìsi </Pinyin>
+    <German>Spaß machen, interessant sein</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1410</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>不好意思</Chinesisch>
+    <Pinyin>bù hǎo yìsi</Pinyin>
+    <German>Es ist mir peinlich; Es tut mir leid</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1411</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>觉得</Chinesisch>
+    <Pinyin>juéde</Pinyin>
+    <German>meinen, fühlen, empfinden</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1412</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>电影</Chinesisch>
+    <Pinyin>diànyǐng</Pinyin>
+    <German>Film</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1413</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>我觉得</Chinesisch>
+    <Pinyin>wǒ juéde</Pinyin>
+    <German>ich finde, ich meine</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1414</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>亚洲人</Chinesisch>
+    <Pinyin>yàzhōurén</Pinyin>
+    <German>Asiate(n)</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1415</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>休假</Chinesisch>
+    <Pinyin>xiūjià</Pinyin>
+    <German>Urlaub nehmen; im Urlaub sein</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1416</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>请假</Chinesisch>
+    <Pinyin>qǐngjià</Pinyin>
+    <German>Urlaub beantragen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1417</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>度假</Chinesisch>
+    <Pinyin>dùjià</Pinyin>
+    <German />
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1418</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>放假</Chinesisch>
+    <Pinyin>fàngjià</Pinyin>
+    <German>Ferien haben, Urlaub machen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1419</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>假期</Chinesisch>
+    <Pinyin>jiàqī</Pinyin>
+    <German>Ferien, Urlaubszeit</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1420</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>假日</Chinesisch>
+    <Pinyin>jiàrì</Pinyin>
+    <German>Feiertag, Urlaubstag</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1421</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>慢跑</Chinesisch>
+    <Pinyin>mànpǎo</Pinyin>
+    <German>Jogging</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1422</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>已经。。。了</Chinesisch>
+    <Pinyin>yǐjīng ... le</Pinyin>
+    <German>bereits</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1423</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>改</Chinesisch>
+    <Pinyin>gǎi</Pinyin>
+    <German>ändern, korrigieren, wechseln</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1424</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>航班</Chinesisch>
+    <Pinyin>hángbān</Pinyin>
+    <German>Flug, Linienflug, Flugverbindung</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1425</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>庆祝</Chinesisch>
+    <Pinyin>qìngzhù</Pinyin>
+    <German>feiern</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1426</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>一整天</Chinesisch>
+    <Pinyin>yì zhěng tiān</Pinyin>
+    <German>den ganzen Tag</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1427</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>水果</Chinesisch>
+    <Pinyin>shuǐguǒ</Pinyin>
+    <German>Obst, Frucht</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1428</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>下次</Chinesisch>
+    <Pinyin>xiàcì</Pinyin>
+    <German>nächstes Mal</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1429</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>春天</Chinesisch>
+    <Pinyin>chūntiān</Pinyin>
+    <German>Frühling</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1430</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>夏天</Chinesisch>
+    <Pinyin>xiàtiān</Pinyin>
+    <German>Sommer</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1431</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>秋天</Chinesisch>
+    <Pinyin>qiūtiān</Pinyin>
+    <German>Herbst</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1432</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>冬天</Chinesisch>
+    <Pinyin>dōngtiān</Pinyin>
+    <German>Winter</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1433</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>凉快</Chinesisch>
+    <Pinyin>liángkuài</Pinyin>
+    <German>kühl, schattig, erfrischend</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1434</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>热</Chinesisch>
+    <Pinyin>rè</Pinyin>
+    <German>heiß, warm</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1435</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>烫</Chinesisch>
+    <Pinyin>tàng</Pinyin>
+    <German>(kochend) heiß </German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1436</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>冷</Chinesisch>
+    <Pinyin>lěng</Pinyin>
+    <German>kalt</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1437</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>寒假</Chinesisch>
+    <Pinyin>hánjià</Pinyin>
+    <German>Winterferien</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1438</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>暑假</Chinesisch>
+    <Pinyin>shǔjià</Pinyin>
+    <German>Sommerferien</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1439</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>放暑假</Chinesisch>
+    <Pinyin>fàng shǔjià</Pinyin>
+    <German>Sommerferien haben</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1440</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>新加坡</Chinesisch>
+    <Pinyin>xīnjiāpō</Pinyin>
+    <German>Singapur</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1441</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>天气</Chinesisch>
+    <Pinyin>tiānqì</Pinyin>
+    <German>Wetter</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1442</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>小心</Chinesisch>
+    <Pinyin>xiǎoxīn</Pinyin>
+    <German>vorsichtig sein, acht geben</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1443</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>冰</Chinesisch>
+    <Pinyin>bīng</Pinyin>
+    <German>Eis </German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1444</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>太阳</Chinesisch>
+    <Pinyin>tàiyáng</Pinyin>
+    <German>Sonne, Sonnenschein</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1445</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>雨伞</Chinesisch>
+    <Pinyin>yǔsǎn</Pinyin>
+    <German>Regenschirm</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1446</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>阳伞</Chinesisch>
+    <Pinyin>yángsǎn</Pinyin>
+    <German>Sonnenschirm</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1447</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>暖气</Chinesisch>
+    <Pinyin>nuǎnqì</Pinyin>
+    <German>Heizung</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1448</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>空调</Chinesisch>
+    <Pinyin>kōngtiáo</Pinyin>
+    <German>Klimaanlage</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1449</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>电风扇</Chinesisch>
+    <Pinyin>diànfēngshàn</Pinyin>
+    <German>Ventilator</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1450</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>除湿机</Chinesisch>
+    <Pinyin>chúshījī</Pinyin>
+    <German>Luftentfeuchter</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1451</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>冰箱</Chinesisch>
+    <Pinyin>bīngxiāng</Pinyin>
+    <German>Kühlschrank</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1452</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>洗衣机</Chinesisch>
+    <Pinyin>xǐyījī</Pinyin>
+    <German>Waschmaschine</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1453</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>洗碗机</Chinesisch>
+    <Pinyin>xǐwǎnjī</Pinyin>
+    <German>Geschirrspüler</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1454</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>烘干机</Chinesisch>
+    <Pinyin>hōnggānjī</Pinyin>
+    <German>Wäschetrockner</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1455</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>吸尘器</Chinesisch>
+    <Pinyin>xīchénqì</Pinyin>
+    <German>Staubsauger</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1456</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>刚才</Chinesisch>
+    <Pinyin>gāngcái</Pinyin>
+    <German>gerade, eben, vor kurzem, just now</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1457</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>刚（刚）+ 动词</Chinesisch>
+    <Pinyin>gāng (gāng)  + verben</Pinyin>
+    <German>gerade, eben, just</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1458</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>事情</Chinesisch>
+    <Pinyin>shìqing</Pinyin>
+    <German>Angelegenheit, Sachverhalt, Ereignis, Geschehen, Aufgabe,
+ Zwischenfall, Auftreten, Vorkommen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1459</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>声音</Chinesisch>
+    <Pinyin>shēngyīn</Pinyin>
+    <German>Stimme</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1460</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>否则</Chinesisch>
+    <Pinyin>fǒuzé</Pinyin>
+    <German>sonst, andernfalls, ansonsten</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1461</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>月初</Chinesisch>
+    <Pinyin>yuè chū</Pinyin>
+    <German>Monatsafang, Anfang des Monats</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1462</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>月中</Chinesisch>
+    <Pinyin>yuè zhōng</Pinyin>
+    <German>Mitte des Monats</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1463</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>月底</Chinesisch>
+    <Pinyin>yuè dǐ</Pinyin>
+    <German>Monatsende, Ende des Monats</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1464</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>公共 场所</Chinesisch>
+    <Pinyin>gōnggòng chǎngsuǒ</Pinyin>
+    <German>öffentlicher Ort/Platz</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1465</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>不用</Chinesisch>
+    <Pinyin>bú yòng</Pinyin>
+    <German>nicht brauchen; nicht nötig sein</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1466</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>可能</Chinesisch>
+    <Pinyin>kěnéng</Pinyin>
+    <German>Möglichkeit, Chance, Option</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1467</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>家务</Chinesisch>
+    <Pinyin>jiāwù</Pinyin>
+    <German>Hausarbeit</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1468</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>耳朵</Chinesisch>
+    <Pinyin>ěrduō</Pinyin>
+    <German>Ohren</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1469</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>尾巴</Chinesisch>
+    <Pinyin>wěibā</Pinyin>
+    <German>Schwanz</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1470</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>奇怪</Chinesisch>
+    <Pinyin>qíguài</Pinyin>
+    <German>komisch, seltsam</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1471</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>找不到</Chinesisch>
+    <Pinyin>zhǎo bú dào</Pinyin>
+    <German>nicht gefunden</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1472</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>找到了</Chinesisch>
+    <Pinyin>zhǎo dào le</Pinyin>
+    <German>(gesucht) gefunden </German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1473</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>找得到</Chinesisch>
+    <Pinyin>zhǎo de dào</Pinyin>
+    <German>Finden</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1474</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>听不到</Chinesisch>
+    <Pinyin>tīng bú dào</Pinyin>
+    <German>Kann nicht hören</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1475</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>听到了</Chinesisch>
+    <Pinyin>tīng dào le</Pinyin>
+    <German>gehört</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1476</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>听得到</Chinesisch>
+    <Pinyin>tīng de dào</Pinyin>
+    <German />
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1477</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>看不到</Chinesisch>
+    <Pinyin>kàn bú dào</Pinyin>
+    <German />
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1478</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>看到了</Chinesisch>
+    <Pinyin>kàn dào le</Pinyin>
+    <German />
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1479</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>看得到</Chinesisch>
+    <Pinyin>kàn de dào</Pinyin>
+    <German />
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1480</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>买不到</Chinesisch>
+    <Pinyin>mǎi bú dào</Pinyin>
+    <German />
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1481</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>买到了</Chinesisch>
+    <Pinyin>mǎi dào le</Pinyin>
+    <German />
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1482</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>买得到</Chinesisch>
+    <Pinyin>mǎi de dào</Pinyin>
+    <German />
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1483</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>摄氏10度</Chinesisch>
+    <Pinyin>shèshì 10 dù</Pinyin>
+    <German>10 Grad Celsius</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1484</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>更</Chinesisch>
+    <Pinyin>gèng</Pinyin>
+    <German>mehr, noch mehr</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1485</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>很大</Chinesisch>
+    <Pinyin>hěn dà</Pinyin>
+    <German>groß</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1486</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>更大</Chinesisch>
+    <Pinyin>gèng dà</Pinyin>
+    <German>größer</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1487</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>最大</Chinesisch>
+    <Pinyin>zuì dà</Pinyin>
+    <German>am größten</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1488</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>比较</Chinesisch>
+    <Pinyin>bǐjiào</Pinyin>
+    <German>relativ, verhältnismäßig</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1489</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>终于</Chinesisch>
+    <Pinyin>zhōngyú</Pinyin>
+    <German>endlich, letztendlich, schließlich</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1490</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>久</Chinesisch>
+    <Pinyin>jiǔ</Pinyin>
+    <German>lange, lange Zeit</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1491</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>卫生纸</Chinesisch>
+    <Pinyin>wèishēngzhǐ</Pinyin>
+    <German>Klopapier</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1492</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>申请</Chinesisch>
+    <Pinyin>shēnqǐng</Pinyin>
+    <German>einen Antrag stellen</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1493</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>签证</Chinesisch>
+    <Pinyin>qiānzhèng</Pinyin>
+    <German>Visum</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1494</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>护照</Chinesisch>
+    <Pinyin>hùzhào</Pinyin>
+    <German>Reisepass</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1495</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>事情</Chinesisch>
+    <Pinyin>shìqíng</Pinyin>
+    <German>Ereignis</German>
+    <Chapter>666</Chapter>
+    <Vokabeln_pk>1496</Vokabeln_pk>
+  </Vokabeln>
+</DataSet1>
